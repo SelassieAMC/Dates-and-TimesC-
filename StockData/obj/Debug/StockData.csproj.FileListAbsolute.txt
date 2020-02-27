@@ -1,0 +1,6 @@
+C:\Users\aclavijo\Documents\Privado\Courses\Dates and Times in .Net\StockData\bin\Debug\StockData.exe.config
+C:\Users\aclavijo\Documents\Privado\Courses\Dates and Times in .Net\StockData\bin\Debug\StockData.exe
+C:\Users\aclavijo\Documents\Privado\Courses\Dates and Times in .Net\StockData\bin\Debug\StockData.pdb
+C:\Users\aclavijo\Documents\Privado\Courses\Dates and Times in .Net\StockData\obj\Debug\StockData.csprojAssemblyReference.cache
+C:\Users\aclavijo\Documents\Privado\Courses\Dates and Times in .Net\StockData\obj\Debug\StockData.exe
+C:\Users\aclavijo\Documents\Privado\Courses\Dates and Times in .Net\StockData\obj\Debug\StockData.pdb
