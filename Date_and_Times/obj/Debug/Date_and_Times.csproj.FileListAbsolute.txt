@@ -1,0 +1,6 @@
+C:\Users\aclavijo\Documents\Privado\Courses\Dates and Times in .Net\Date_and_Times\obj\Debug\Date_and_Times.csprojAssemblyReference.cache
+C:\Users\aclavijo\Documents\Privado\Courses\Dates and Times in .Net\Date_and_Times\bin\Debug\Date_and_Times.exe.config
+C:\Users\aclavijo\Documents\Privado\Courses\Dates and Times in .Net\Date_and_Times\bin\Debug\Date_and_Times.exe
+C:\Users\aclavijo\Documents\Privado\Courses\Dates and Times in .Net\Date_and_Times\bin\Debug\Date_and_Times.pdb
+C:\Users\aclavijo\Documents\Privado\Courses\Dates and Times in .Net\Date_and_Times\obj\Debug\Date_and_Times.exe
+C:\Users\aclavijo\Documents\Privado\Courses\Dates and Times in .Net\Date_and_Times\obj\Debug\Date_and_Times.pdb
